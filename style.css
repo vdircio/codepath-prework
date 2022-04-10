@@ -1,0 +1,150 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  background: linear-gradient(-45deg, #626e60 , #000000, #494e6b, #3c3c3c);
+    background-size: 400% 400%;
+    animation: gradient 20s ease infinite;
+  background-color: slategrey;
+  color: white;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-family: 'Anonymous Pro', monospace;
+  font-weight: bold;
+  text-align: center;
+  margin: 5px auto;
+  padding: 20px;
+}
+button {
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  border: 0;
+  touch-action: manipulation;
+}
+#startBtn, #endBtn {
+    width: 70px;
+    height: 50px;
+  }
+#gameButtonArea{
+  padding-top: 8px;
+}
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:7px;
+}
+.hidden {
+  display: none;
+}
+#button1 {
+  background: lightblue;
+}
+#button2 {
+  background: lightpink;
+}
+#button3 {
+  background: lightgreen;
+}
+#button4 {
+  background: lightyellow;
+}
+#button5 {
+  background: lightblue;
+}
+#button6 {
+  background: lightpink;
+}
+#button7 {
+  background: lightgreen;
+}
+#button8 {
+  background: lightyellow;
+}
+#button1:active, #button1.lit {
+    background:blue;
+}
+#button2:active, #button2.lit {
+    background:red;
+}
+#button3:active, #button3.lit {
+    background:green;
+}
+#button4:active, #button4.lit {
+    background:yellow;
+}
+#button5:active, #button5.lit {
+    background:blue;
+}
+#button6:active, #button6.lit {
+    background:red;
+}
+#button7:active, #button7.lit {
+    background:green;
+}
+#button8:active, #button8.lit {
+    background:yellow;
+}
+@media(max-width:600px){
+  h1 {
+    font-size: 30px;
+  }
+  #startBtn, #endBtn {
+    width: 50px;
+    height: 30px;
+  }
+  #gameButtonArea > button {
+  width:120px;
+  height:120px;
+  margin:4px;
+}
+}
+@media(max-width:300px){
+  h1 {
+    font-size: 30px;
+  }
+  #startBtn, #endBtn {
+    width: 50px;
+    height: 30px;
+  }
+  #gameButtonArea > button {
+  width:70px;
+  height:70px;
+  margin:4px;
+}
+}
