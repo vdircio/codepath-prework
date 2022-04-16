@@ -6,8 +6,7 @@ Submitted by: **NAME**
 
 Time spent: **#** hours spent in total
 
-Link to project: https://codepath-prework-vic.glitch.me/
-https://glitch.com/edit/#!/codepath-prework-vic
+Link to project: (insert your link here, should start with https://glitch.com...)
 
 ## Required Functionality
 
@@ -39,6 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
+If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://i.imgur.com/pKMUju0.gif)
 
 ## Reflection Questions
@@ -59,12 +59,11 @@ There is a lot more, I feel, that can be added to any website. Making the "You L
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
-
+https://illinois.zoom.us/rec/share/GsX95hoqJ7e-_eldl5Y5M3wgYZEyYt6gNdZ5VGqCNzN5HP3hmpBi7Wouo6ITMWYY.iX2y_XSJwBajMyM2
 
 ## License
 
-    Copyright Victor Manuel Dircio
+    Copyright [YOUR NAME]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
