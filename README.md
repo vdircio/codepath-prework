@@ -2,11 +2,12 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Victor Manuel Dircio**
 
-Time spent: **#** hours spent in total
+Time spent: **2.5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/codepath-prework-vic
+https://codepath-prework-vic.glitch.me
 
 ## Required Functionality
 
@@ -37,8 +38,6 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
-
-If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://i.imgur.com/pKMUju0.gif)
 
 ## Reflection Questions
@@ -63,7 +62,7 @@ https://illinois.zoom.us/rec/share/GsX95hoqJ7e-_eldl5Y5M3wgYZEyYt6gNdZ5VGqCNzN5H
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Victor Dircio]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
