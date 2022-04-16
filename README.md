@@ -6,7 +6,8 @@ Submitted by: **NAME**
 
 Time spent: **#** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://codepath-prework-vic.glitch.me/
+https://glitch.com/edit/#!/codepath-prework-vic
 
 ## Required Functionality
 
