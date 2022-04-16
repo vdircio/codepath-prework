@@ -39,7 +39,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://i.imgur.com/pKMUju0.gif)
 
 ## Reflection Questions
@@ -65,7 +64,7 @@ There is a lot more, I feel, that can be added to any website. Making the "You L
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Victor Manuel Dircio
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
